@@ -7,7 +7,7 @@
 - Временной вебхук
 
 ### Действия, которые нужно выполнить при запуске:
-- Включить все интенты у бота на сайте <a href="https://">Discord Develeper</a>
+- Включить все интенты у бота на сайте <a href="https://discord.com/developers/applications">Discord Develeper</a>
 - В папке бота создать файл `config.py`
 - Открыть файл `config.py`
 - Записать следующий код в файл:
